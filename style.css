@@ -1,0 +1,79 @@
+body {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ogu {
+font-size: 25px;
+text-align: center;
+}
+
+header {
+display: flex;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.fakak {
+width: 139px;
+}
+
+.okak {
+background-image: linear-gradient(rgb(75, 84, 128), rgb(76, 76, 236));
+
+}
+
+.linetka {
+float: left;
+margin-top: -70px;
+
+}
+
+.lineyka {
+float: left;
+margin-top: -30px;
+}
+
+.freminet {
+float: left;
+margin-top: -100px;
+}
+
+.nevi {
+float: left;
+margin-top: -37px;https://i.ibb.co/RGz6XJW2/Group-2-1.png$0
+}
+
+img {
+width: 100%;
+}
+
+.rizlik {
+float: left;
+margin-top: -68px;
+}
+.fura {
+float: left;
+margin-top: -38px;
+}
+
+.Navia {
+float: left;
+margin-top: -19px;
+}
+
+.Clorinde {
+float: left;
+margin-top: -40px;
+}
+
+.Sigwein {
+float: left;
+margin-top: -40px;
+}
